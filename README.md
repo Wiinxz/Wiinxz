@@ -43,7 +43,7 @@ const hosana = {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 <p align="center">
-  <img src="./cat.gif" width="220" alt="Hosana coding gif" />
+  <img src="./cat.gif" width="270" alt="Hosana coding gif" />
 </p>
 ---
 
