@@ -22,9 +22,9 @@ const hosana = {
   location: "Lisbon, Portugal",
   role: "Aspiring Junior Full Stack .NET Developer",
   code: ["C#", ".NET", "Python", "HTML", "CSS", "JavaScript & more..."],
-  tools: ["Git", "GitHub", "VS Code", "VMware"],
+  tools: ["Git", "GitHub", "VS Code","Visual Studio", "VMware & more..."],
   interests: ["Web Development", "Backend", "Problem Solving"],
-  currentlyLearning: ["C#", ".NET", "Frontend Development"],
+  currentlyLearning: ["C#", ".NET", "Frontned & Backend Development"],
 }
 ```
 ---
