@@ -21,9 +21,9 @@
 const hosana = {
   location: "Lisbon, Portugal",
   role: "Aspiring Junior Full Stack .NET Developer",
-  code: ["C#", ".NET", "Python", "HTML", "CSS", "JavaScript & more..."],
-  tools: ["Git", "GitHub", "VS Code","Visual Studio", "VMware & more..."],
-  interests: ["Web Development", "Backend", "Problem Solving"],
+  code: ["C#", ".NET","JAVA","Python", "HTML", "CSS", "JavaScript & more..."],
+  tools: ["Git", "GitHub", "VS Code","Visual Studio","IntelliJ IDEA", "VMware & more..."],
+  interests: ["Web Development", "Backend","Front-end","Problem Solving"],
   currentlyLearning: ["C#", ".NET", "Frontned & Backend Development"],
 }
 ```
@@ -34,6 +34,7 @@ const hosana = {
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-7A3EFF?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-6C47FF?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
