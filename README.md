@@ -27,7 +27,7 @@ const hosana = {
   currentlyLearning:[".NET","AWS cloud fundamentals-learning to deploy, scale, and manage applications in the cloud"],
   }
 ```
----
+
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -54,7 +54,6 @@ const hosana = {
 <p align="center">
   <img src="./cat.gif" width="320" alt="Hosana coding gif" />
 </p>
----
 
 ## 📌 Featured Areas
 
